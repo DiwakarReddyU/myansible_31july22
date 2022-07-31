@@ -1,0 +1,12 @@
+---
+- mystudents:
+  - name: anuradha
+    phoneno: 8660469252
+    address: bly
+  - name: naresh
+    phoneno: 9880021655
+    address: bly
+  - name: sindhuja
+    phoneno: 90665558835
+    address: bly
+    
